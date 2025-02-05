@@ -20,21 +20,6 @@
 
 <div align="center">
 
-  # Current Stats
-
-<br />
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=whoishasan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF"/>
-  
-</div>
-
-<br />
-<br />
-<br />
-
-<div align="center">
-
   # My Skills
 
   <br />
@@ -87,22 +72,20 @@
 <br />
 <br />
 
-
 <div align="center">
-  
-  # Reach me out
-  
-  <br />
-  
-  [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/X10.Alvee)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_)
+
+  # Current Stats
+
+<br />
 
 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=whoishasan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF"/>
+  
 </div>
 
 <br />
 <br />
 <br />
-
 
 <div align="center">
   
@@ -115,6 +98,20 @@
 
 </div>
 
+<br />
+<br />
+<br />
+
+<div align="center">
+  
+  # Reach me out
+  
+  <br />
+  
+  [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/X10.Alvee)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_)
+
+
+</div>
 
 <br />
 <br />
