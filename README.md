@@ -30,6 +30,10 @@
   
 </div>
 
+<br />
+<br />
+<br />
+
 <div align="center">
 
   # My Skills
@@ -78,4 +82,20 @@
 <a href="https://nextjs.org" target="_blank">
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&color=000000" alt="Next.js" />
 </a>
+</div>
+
+<br />
+<br />
+<br />
+
+
+<div align="center">
+  
+  # Reach me out
+  
+  <br />
+  
+  [<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/X10.Alvee)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_)
+
+
 </div>
