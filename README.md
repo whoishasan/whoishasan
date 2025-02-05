@@ -12,8 +12,7 @@
   Hi there! I'm an aspiring web developer passionate about building sleek, functional, and user-friendly web applications. My journey in web development has equipped me with solid skills in:
   HTML, CSS, and JavaScript: Crafting responsive and interactive web interfaces.
   Tailwind CSS: Designing modern, utility-first, and visually appealing user interfaces.
-  MongoDB: Creating and managing scalable, NoSQL databases.
-  Currently, I'm diving deeper into Next.js, exploring server-side rendering, API routes, and how it enhances the modern web development experience. I'm constantly seeking opportunities to learn, grow, and contribute to impactful projects. Feel free to check out my repositories, connect, and collaborate! 🚀
+  MongoDB: Creating and managing scalable, NoSQL databases. I'm constantly seeking opportunities to learn, grow, and contribute to impactful projects. Feel free to check out my repositories, connect, and collaborate! 🚀
 </div>
 <br />
 <br />
