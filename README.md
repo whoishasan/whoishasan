@@ -107,7 +107,7 @@
 
 <div align="center">
   
-  # Reach me out
+  # Used Languages
   
   <br />
   
@@ -117,4 +117,20 @@
 </div>
 
 
+<br />
+<br />
+<br />
 
+<div>
+  
+  # Latest Activities
+  
+  <br />
+
+  - I am working on a donation website
+  - I am exploring Next.js
+  - I am exploring GraphQL
+  
+
+
+</div>
