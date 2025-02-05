@@ -122,7 +122,7 @@
 
 <div>
   
-  # Latest Activities
+  # Current Activities
   
   <br />
 
